@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "DGM1600"]
+	url = https://github.com/JonahOliphant/DGM1600.git
+	fetch = +refs/heads/*:refs/remotes/DGM1600/*
